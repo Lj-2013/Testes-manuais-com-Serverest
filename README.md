@@ -34,10 +34,6 @@ O objetivo principal desta validação foi garantir a estabilidade, usabilidade,
   * Validação de regra de negócio para e-mails duplicados.
   * Tratamento de campos obrigatórios ausentes.
 
-### Fora de Escopo (Out-of-Scope nesta etapa):
-* Testes de performance e carga na API Serverest.
-* Testes de responsividade em múltiplos dispositivos móveis (Mobile Cross-device).
-* Fluxos de checkout e carrinho de compras (próxima sprint).
 
 ---
 
@@ -102,11 +98,3 @@ O objetivo principal desta validação foi garantir a estabilidade, usabilidade,
 
 ---
 
-## 🚀 Próximos Passos (Evolução para Automação)
-
-Como plano de evolução técnica e melhoria contínua, os próximos passos do projeto englobam:
-1. **Automação E2E:** Mapear e automatizar os cenários de **Caminho Feliz (CT-001, CT-002, CT-009, CT-010)** utilizando **Cypress / Playwright**.
-2. **Testes de API:** Validar as rotas `/login` e `/usuarios` via Postman/RestAssured para garantir que as regras de contrato correspondem às do front-end.
-3. **Padrão BDD:** Escrever as especificações em formato Gherkin para facilitação da comunicação BDD.
-
----
