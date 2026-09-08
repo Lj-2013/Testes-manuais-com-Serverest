@@ -1,5 +1,3 @@
-# Testes-manuais-com-Serverest
-
 # 🧪 Testes Manuais & Qualidade de Software — ServeRest Frontend
 
 [![QA Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)](https://front.serverest.dev/login)
