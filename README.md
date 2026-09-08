@@ -98,3 +98,5 @@ O objetivo principal desta validação foi garantir a estabilidade, usabilidade,
 
 ---
 
+📥 [Clique aqui para baixar a Planilha de Testes (.xlsx)](./PLANILHA%20DE%20TESTE%20SERVEREST%20-%20Casos%20de%20Teste.xlsx)
+
